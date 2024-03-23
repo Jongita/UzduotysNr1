@@ -10,6 +10,4 @@ let c = Number(process.argv[4]);
 let s = (a + b + c) / 2;
 let plotas = Math.sqrt(s * (s - a) * (s - b) * (s - c)).toFixed(2);
 
-
-console.log(s);
 console.log(plotas);

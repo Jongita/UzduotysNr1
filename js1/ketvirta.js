@@ -11,3 +11,8 @@ for (let i = 100; i <= 999; i++) {
         console.log(i);
     }
 }
+
+// // 156
+// pirm=Math.floor(x/100); // 1
+// antr = Math.floor(x % 100 / 10); // 5
+// pask = x % 10; // 6
